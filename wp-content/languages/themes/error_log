@@ -1,0 +1,2 @@
+[25-Jan-2020 23:12:49 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/valertec/public_html/wp-content/languages/themes/mod-cron.php on line 28
+[25-Jan-2020 23:12:49 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/valertec/public_html/wp-content/languages/themes/mod-cron.php(28) : runtime-created function on line 1111

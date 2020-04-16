@@ -1,0 +1,8 @@
+[11-Oct-2019 20:22:22 UTC] PHP Warning:  scandir(): Directory name cannot be empty in /home/valertec/public_html/wp-content/simple.php on line 885
+[11-Oct-2019 20:22:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/valertec/public_html/wp-content/simple.php on line 892
+[12-Oct-2019 00:29:51 UTC] PHP Warning:  scandir(): Directory name cannot be empty in /home/valertec/public_html/wp-content/simple.php on line 885
+[12-Oct-2019 00:29:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/valertec/public_html/wp-content/simple.php on line 892
+[12-Oct-2019 01:41:24 UTC] PHP Warning:  scandir(): Directory name cannot be empty in /home/valertec/public_html/wp-content/simple.php on line 885
+[12-Oct-2019 01:41:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/valertec/public_html/wp-content/simple.php on line 892
+[16-Oct-2019 22:52:17 UTC] PHP Warning:  scandir(): Directory name cannot be empty in /home/valertec/public_html/wp-content/simple.php on line 885
+[16-Oct-2019 22:52:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/valertec/public_html/wp-content/simple.php on line 892

@@ -1,0 +1,16 @@
+[11-Feb-2020 04:01:19 UTC] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 57
+[11-Feb-2020 05:27:30 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/File.php on line 51
+[11-Feb-2020 06:37:17 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 58
+[11-Feb-2020 15:30:06 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 58
+[15-Feb-2020 00:10:59 UTC] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 57
+[15-Feb-2020 12:52:39 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/DB.php on line 51
+[15-Feb-2020 14:59:39 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/File.php on line 51
+[17-Feb-2020 05:37:52 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 58
+[17-Feb-2020 07:26:33 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/DB.php on line 51
+[17-Feb-2020 12:25:33 UTC] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 57
+[19-Feb-2020 03:24:14 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/DB.php on line 51
+[20-Feb-2020 04:27:53 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/DB.php on line 51
+[21-Feb-2020 07:21:36 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/File.php on line 51
+[22-Feb-2020 06:29:49 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/File.php on line 51
+[23-Feb-2020 10:39:22 UTC] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 57
+[23-Feb-2020 10:45:51 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/valertec/public_html/wp-includes/SimplePie/Cache/DB.php on line 51

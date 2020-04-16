@@ -1,0 +1,4 @@
+[10-Feb-2020 09:24:02 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/valertec/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[10-Feb-2020 19:51:24 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/valertec/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[20-Feb-2020 17:53:27 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/valertec/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[29-Feb-2020 00:32:54 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/valertec/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3

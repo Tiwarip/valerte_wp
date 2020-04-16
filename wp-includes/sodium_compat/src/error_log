@@ -1,0 +1,5 @@
+[06-Feb-2020 21:17:10 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/valertec/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[08-Feb-2020 00:38:33 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/valertec/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[13-Feb-2020 03:28:50 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/valertec/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[15-Feb-2020 03:42:03 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/valertec/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[22-Feb-2020 22:32:38 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/valertec/public_html/wp-includes/sodium_compat/src/File.php on line 9

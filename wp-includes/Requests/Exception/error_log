@@ -1,0 +1,7 @@
+[10-Feb-2020 20:40:15 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/valertec/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[12-Feb-2020 09:17:58 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/valertec/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[12-Feb-2020 15:44:24 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/valertec/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[16-Feb-2020 08:39:14 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/valertec/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[16-Feb-2020 13:36:28 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/valertec/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[16-Feb-2020 17:59:23 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/valertec/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[22-Feb-2020 00:13:55 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/valertec/public_html/wp-includes/Requests/Exception/HTTP.php on line 13

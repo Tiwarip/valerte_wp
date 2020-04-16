@@ -1,0 +1,7 @@
+[10-Feb-2020 07:08:44 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/valertec/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[10-Feb-2020 13:52:52 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/valertec/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[23-Feb-2020 03:27:26 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/valertec/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[27-Feb-2020 16:15:00 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/valertec/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[04-Mar-2020 10:37:21 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/valertec/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[06-Mar-2020 23:31:23 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/valertec/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12
+[13-Mar-2020 13:06:20 UTC] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/valertec/public_html/wp-includes/sodium_compat/src/Core/Curve25519/H.php on line 12

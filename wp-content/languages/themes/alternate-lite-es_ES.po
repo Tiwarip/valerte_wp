@@ -1,0 +1,169 @@
+# Translation of Themes - Alternate Lite in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Alternate Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-27 15:37:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Alternate Lite\n"
+
+#. Theme Name of the theme
+msgid "Alternate Lite"
+msgstr "Alternate Lite"
+
+#. Description of the theme
+msgid "Alternate Lite is a clean, minimal and simple blog theme. In the front page you can display your blog or a static page. Add links to your Social media accounts easily with the integrated Social Media menu. Alternate Lite comes loaded with 28 social media icons to have your visitors connect to you. Easily upload your logo image and favicon, styling for Contact Form 7 plugin are among the features. For even more features check the Pro Version of this theme https://www.vivathemes.com/wordpress-theme/alternate/"
+msgstr "Alternate Lite es un tema para blogs limpio, minimalista y sencillo. En la página de inicio puedes mostrar tu blog o una página estática. Añade enlaces a tus cuentas de redes sociales fácilmente mediante el menú integrado de redes sociales. Alternate Lite viene con 28 iconos de redes sociales para que tus visitantes se conecten contigo. Sube tu logotipo y favicon fácilmente. Entre sus características podemos encontrar estilos para el plugin Contact Form 7. Para conseguir aún más características, echa un vistazo a la versión pro de este tema https://www.vivathemes.com/wordpress-theme/alternate/"
+
+#. translators: %s: post title
+#: comments.php:21
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Una respuesta a &ldquo;%s&rdquo;"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:25
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s respuesta a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s respuestas a &ldquo;%2$s&rdquo;"
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:52
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios recientes &rarr;"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: archive.php:25
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: single.php:22 page.php:23
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! La página no existe."
+
+#: footer.php:39
+msgid "Y"
+msgstr "Y"
+
+#: footer.php:41
+msgid "http://wordpress.org/"
+msgstr "http://es.wordpress.org/"
+
+#: footer.php:41
+msgid "Powered by %s."
+msgstr "Funciona gracias a %s."
+
+#: inc/extras.php:32 inc/extras.php:41
+msgid "Read More"
+msgstr "Seguir leyendo"
+
+#: inc/extras.php:67
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/extras.php:69
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/extras.php:71
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j F, Y"
+
+#: inc/extras.php:77
+msgid "Archives"
+msgstr "Archivos"
+
+#: inc/extras.php:89
+msgid "Thanks for installing Alternate Lite! Want more features?"
+msgstr "¡Gracias por instalar Alternate Lite! ¿Quieres más características?"
+
+#: inc/extras.php:89
+msgid "Check out the Pro Version  &#8594;"
+msgstr "Echa un vistazo a la versión pro  &#8594;"
+
+#: index.php:24
+msgid "You don&#39;t have any posts yet."
+msgstr "Aún no has escrito ninguna entrada."
+
+#: functions.php:18
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: functions.php:19
+msgid "Social Menu"
+msgstr "Menú social"
+
+#: functions.php:32
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: functions.php:34
+msgid "Left sidebar, drag and drop widgets from the left"
+msgstr "Barra lateral izquierda, arrastra y suelta los widgets de la izquierda"
+
+#: functions.php:42
+msgid "Bottom Widgets"
+msgstr "Widgets inferiores"
+
+#: functions.php:44
+msgid "Widgets in the bottom, drag and drop widgets from the left"
+msgstr "Widgets en la parte inferior, arrastra y suelta los widgets de la izquierda"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:65
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: To add an additional Open Sans character subset specific to
+#. your language, * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do
+#. not translate into your own language.
+#: functions.php:71
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: search.php:12
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#: footer.php:41
+msgid "Theme by %1$s."
+msgstr "Tema de %1$s."
+
+#. Theme URI of the theme
+msgid "http://www.vivathemes.com/wordpress-theme/alternate/"
+msgstr "http://www.vivathemes.com/wordpress-theme/alternate/"
+
+#. Author of the theme
+msgid "Viva Themes"
+msgstr "Viva Themes"
+
+#. Author URI of the theme
+msgid "http://www.vivathemes.com"
+msgstr "http://www.vivathemes.com"

@@ -1,0 +1,7 @@
+[06-Feb-2020 18:19:34 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/valertec/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[07-Feb-2020 06:08:51 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/valertec/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[11-Feb-2020 12:03:52 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/valertec/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[11-Feb-2020 21:50:34 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/valertec/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[16-Mar-2020 03:12:49 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/valertec/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[17-Mar-2020 11:13:18 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/valertec/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[24-Mar-2020 03:12:35 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/valertec/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 8

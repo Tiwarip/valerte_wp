@@ -1,0 +1,5 @@
+[07-Feb-2020 22:33:51 UTC] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/valertec/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[14-Feb-2020 12:42:48 UTC] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/valertec/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[15-Feb-2020 09:21:35 UTC] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/valertec/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[15-Feb-2020 17:07:08 UTC] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/valertec/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[21-Feb-2020 02:49:05 UTC] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/valertec/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
